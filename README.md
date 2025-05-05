@@ -52,7 +52,7 @@ This project is an AI-based system that recommends mutual funds to users based o
 
 ## 📝 How to Run
 
-1. Open the Colab Notebook [here](#) *(insert link once uploaded)*
+1. Open the Colab Notebook [[here](https://colab.research.google.com/drive/1omRfDjOp4qFZs8tqFzyDk-JyIJXDHN1U?usp=sharing)](#) *(insert link once uploaded)*
 2. Upload the dataset when prompted
 3. Answer the questionnaire
 4. Get your top fund recommendations!
@@ -63,8 +63,8 @@ This project is an AI-based system that recommends mutual funds to users based o
 
 **Prince Kumar**  
 AI Foundation Internship | 2025  
-📬 Email: *your-email@example.com*  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📬 Email: *mr.princekumar772004@gmail.com*  
+🔗 [LinkedIn](https://www.linkedin.com/in/mrprincekumar)
 
 ---
 
